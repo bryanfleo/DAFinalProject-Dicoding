@@ -7,7 +7,7 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 ```
 
-## Run steamlit app
+## Run Streamlit app
 ```
 streamlit run dashboard.py
 ```
